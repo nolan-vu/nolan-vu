@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Nolan Vu
 
-<!--
-**nolan-vu/nolan-vu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at **UCLA** pursuing a degree in **Linguistics & Computer Science**. 
 
-Here are some ideas to get you started:
+## Currently Learning
+- **Languages & Tools:** C++, Git & GitHub
+- **Concepts:** Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Artificial Intelligence (AI)
+- Computational Linguistics & Natural Language Processing (NLP)
+- Data Science
+- Human-Computer Interaction (HCI)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/nolan-vu-3670913a7/)
+- [Email](mailto:nolanvu@ucla.edu)
